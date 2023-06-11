@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://cinemareelsmovie.blogspot.com/`
+					`https://cinemareelsmovie.blogspot.com/2023/06/httpscinemareelsmovie.blogspot.comjohn-wick-chapter-4-super-hit-move-2023.html/`
 				}`,
 			},
 		};
