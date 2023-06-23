@@ -19,7 +19,8 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://cinemareelsmovie.blogspot.com/search/label/Hollywood%20Moves?&max-results=15/`
+					`https://spacefindingzs.blogspot.com/2023/06/pathan-movie-super-hit-2023.html/` + encodeURI(path as string)
+				}`,
 				}`,
 			},
 		};
