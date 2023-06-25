@@ -19,7 +19,7 @@ export const getServerSideProps: GetServerSideProps = async (ctx) => {
 			redirect: {
 				permanent: false,
 				destination: `${
-					`https://spacefindingzs.blogspot.com/2023/06/pathan-movie-super-hit-2023.html/` + encodeURI(path as string)
+					`https://spacefindingzs.blogspot.com/` + encodeURI(path as string)
 				}`,
 				}`,
 			},
